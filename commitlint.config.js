@@ -1,3 +1,5 @@
 module.exports = {
-  'references-empty': [2, 'never']
+  'rules': { 
+    'references-empty': [2, 'never']
+  }
 };
